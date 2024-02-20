@@ -24,6 +24,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A API strapi-supabase, consiste em uma API criada no strapi que utiliza uma base de dados do supabase. 
+A API strapi-supabase, consiste em uma API criada no strapi que utiliza uma base de dados do supabase que utiliza PostgreSQL. 
 
 
